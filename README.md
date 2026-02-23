@@ -1,4 +1,4 @@
-<img width="1907" height="1079" alt="Screenshot 2026-02-21 232146" src="https://github.com/user-attachments/assets/1af4bff8-055e-481c-8ff5-10ba11cdf01a" /><p align="center">
+
 
 <img src="./images/microsoft-azure-logo.png" width="400" />
 </p>
