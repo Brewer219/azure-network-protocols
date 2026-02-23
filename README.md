@@ -164,6 +164,10 @@ ping <Linux Private IP> -t
 <img src="images/Step 3c.png" width="60%">
 </details>
 
+<img width="355" height="339" alt="Step 23 Performing Network Activities VD2 deleted rule to reaccept ping Traffic" src="https://github.com/user-attachments/assets/0a9ddd78-f49d-4c48-a703-ad0dde185040" />
+
+
+
 Back to normal. In PowerShell, press 
  `ctrl+c` 
  to stop the continous ping.
