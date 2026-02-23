@@ -86,22 +86,20 @@ Observe the traffic in Wireshark. We filtered by ICMP to isolate and observe the
      ping <Linux Private IP>''''
   5. Observe the ICMP traffic in Wireshark, noting
    the echo request and reply packets.
-  
-
-<details><summary>See screenshots</summary>
-
-<img src="images/Step 2a.png" width="60%">
-
-</details> 
-
-<p>Inspect the data packet in Wireshark, under Internet Control Message Protocal drop down, and Data drop down, select the Data.</p>
-
-
 
 <details><summary>See screenshots</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
+  
+<img width="354" height="339" alt="Step 24 Performing Network Activities rule deleted ping back on windows" src="https://github.com/user-attachments/assets/b15349ba-344c-4e59-b329-3c22735a5285" />
+
+
+<p>Inspect the data packet in Wireshark, under Internet Control Message Protocal drop down, and Data drop down, select the Data.</p>
+
+
+
+
 
 > [!NOTE]
 > On the right, you can see the ICMP payload, which often contains a predictable ASCII test pattern (such as the alphabet) used by the ping utility for easy identification during packet inspection.
@@ -128,8 +126,17 @@ PowerShell, noting the "no Response Found!"
 messages.
 5. Remove the rule to renable ICMP traffic and inspect the network again.
 
+<details><summary>See screenshots</summary>
+
+<img src="images/Step 3a.jpg" width="30%">
+</details>
+
 ping <Linux Private IP> -t
-`
+
+<img width="306" height="369" alt="Screenshot 2026-02-21 214400" src="https://github.com/user-attachments/assets/b60d0f11-463f-4127-9f55-928cc3e7330d" />
+
+
+
 
 <details><summary>See screenshots</summary>
 
