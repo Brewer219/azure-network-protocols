@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1907" height="1079" alt="Screenshot 2026-02-21 232146" src="https://github.com/user-attachments/assets/1af4bff8-055e-481c-8ff5-10ba11cdf01a" /><p align="center">
 
 <img src="./images/microsoft-azure-logo.png" width="400" />
 </p>
@@ -191,6 +191,10 @@ Back in our client VM "vm-client-1" in Wireshark, clear the filter and filter fo
 ```powershell
 ssh <linux username>@<linux private IP>
 ```
+
+<img width="307" height="379" alt="Screenshot 2026-02-21 232146" src="https://github.com/user-attachments/assets/9a7cb893-9571-498c-9446-193b72ca38c7" />
+
+
 In the following prompt, type yes and press Enter.
 Next, enter your Linux user password. Note: No characters will appear on the screen while you type, this is normal behavior for security reasons. Press Enter when finished.
 
@@ -200,6 +204,10 @@ Observe the traffic within Wireshark.
 
 <img src="images/Step 4a.png" width="60%">
 </details> 
+
+
+<img width="318" height="379" alt="Screenshot 2026-02-21 232614" src="https://github.com/user-attachments/assets/7484862d-1542-40d9-a748-9afe8799004b" />
+
 
 <p>In PowerShell, enter Commands such as id, hostname, uname, and pwd, and observe Wireshark again.</p>
 
