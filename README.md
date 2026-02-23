@@ -253,7 +253,9 @@ nslookup google.com
 <img src="images/Step 4b.png" width="60%">
 </details> 
 
-![Uploading Step 32 Performing Network Activities VD3 DNS traffic.png…]()
+
+
+<img width="359" height="337" alt="Step 32 Performing Network Activities VD3 DNS traffic" src="https://github.com/user-attachments/assets/7cdd6b31-a34e-494f-ac06-de5b10d5965f" />
 
 
 
