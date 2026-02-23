@@ -228,13 +228,17 @@ Observe the traffic within Wireshark.
  '''powershell
 ipconfig /renew
 '''
-3. Observe the DHCP traffic in Wireshark.
+3. Observe the DHCP traffic in Wireshark
+
+
 <details><summary>See screenshots</summary>
 
 <img src="images/Step 5.png" width="60%">
 </details> 
+<img width="959" height="539" alt="Step 38 Networking Activities VD3 the correct 4 dhcp traffic sequence for wireshark" src="https://github.com/user-attachments/assets/3e8521f6-b926-455a-a059-180d0da77d1f" />
 
-<h9> DNS TRAFFIC OBSERVATION</h9>
+
+<h9>DNS TRAFFIC OBSERVATION</h9>
 - Objective: Inspect DNS traffic.
 - Instructions:
   1. In Wireshark, filter for DNS traffic using:
@@ -243,14 +247,25 @@ ipconfig /renew
      2. In PowerShell, excute:
      '''powershell
 nslookup google.com
-```
+
+<details><summary>See screenshots</summary>
+
+<img src="images/Step 4b.png" width="60%">
+</details> 
+
+![Uploading Step 32 Performing Network Activities VD3 DNS traffic.png…]()
+
+
+
+
+
 
 
 <h10>RDP TRAFFIC OBSERVATION</h10>
 - Objective:: Review RDP Traffic.
 - Instructions:
 1. In Wireshark, filter for RDP traffic using:
-'''plaintext
+plaintext
 tcp.port == 3389
 2. Analyze the data stream from your Remote
 Desktop Connection to the virtual machine.
@@ -260,3 +275,7 @@ Desktop Connection to the virtual machine.
 
 <img src="images/Step 7.png" width="60%">
 </details>
+
+
+
+
