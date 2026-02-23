@@ -277,6 +277,9 @@ Desktop Connection to the virtual machine.
 
 <img src="images/Step 7.png" width="60%">
 </details>
+<img width="336" height="338" alt="Step 39 Network Activities VD3 RDP port analyze " src="https://github.com/user-attachments/assets/d8c92e70-7dbb-4396-bd31-cf90d8021a0d" />
+
+
 
 
 
