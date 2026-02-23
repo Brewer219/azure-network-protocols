@@ -146,6 +146,12 @@ ping <Linux Private IP> -t
 
 <p>Observe the terminal and Wireshark output. Notice the "No Response Found!" in Wireshark, and "Request timed out." message in PowerShell.</p>
 
+<img width="303" height="376" alt="Screenshot 2026-02-21 222543" src="https://github.com/user-attachments/assets/d7342ef9-891f-4f14-820a-f0bf0158c806" />
+
+
+
+
+
 <details><summary>See screenshots</summary>
 
 <img src="images/Step 3b.png" width="60%">
